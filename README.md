@@ -36,6 +36,7 @@ The following Power BI features were incoporated:
 - Button.
 
 ## Model Development
+![](Model_Development.png)
 
 - RMF analysis is used to determine which customers a business should target to increase its revenue and value.
 - The RMF (Recency, Frequency, and Monetary) model shows customers that have displayed high levels of engagement with the business in the three categories mentioned.
@@ -79,14 +80,8 @@ You can interact with the report [here] (https://app.powerbi.com/groups/me/repor
 ### Target Customers:
 ![](1000_Target_Customers.png)
 
+## Interpretation/ Conclusion and Recommendation
+![](Interpretation.png)
 
-
-
-
-
-
-
-
-
-
+The top 1000 customers to target are all in the Platinum customer, Very loyal, Becoming loyal or Recent customers title range.
 
